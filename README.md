@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 📍 Houston, TX  
 📊 Aspiring Data Scientist | Data Analyst  
 
-I’m the kind of person who actually enjoys the "messy" part of data. I like taking thousands of raw, unorganized records and figuring out how to clean them up so they actually tell a story. To me, the most interesting part of Data Science isn’t just the final model—it’s the work that goes into making the data reliable enough to trust.
+I’m the kind of person who actually enjoys the "messy" part of data. I like taking thousands of raw, unorganized records and figuring out how to clean them up so they actually tell a story. To me, the most interesting part of Data Science isn’t just the final model, but it’s the work that goes into making the data reliable enough to trust.
 
 I spend most of my time working in Python and SQL. Right now, I am looking for a full-time Data Scientist or Data Analyst role where I can help solve real-world problems with data. 
 
