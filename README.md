@@ -25,37 +25,29 @@ I am passionate about transforming messy, real-world data into meaningful insigh
 
 My work focuses on statistical analysis, predictive modeling, and building scalable data pipelines using Python and SQL.  I am currently seeking entry-level Data Scientist and Data Analyst roles where I can apply my skills to deliver measurable impact.
 
----
 
-## 🚀 Core Skills  
 
-**Programming:** Python, SQL  
-**Data Analysis:** Exploratory Data Analysis (EDA), Statistics, Feature Engineering  
-**Machine Learning:** Predictive Modeling, Classification, Anomaly Detection, Model Evaluation  
-**Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
-**Databases:** SQL Server, MongoDB Atlas, Azure Data Studio  
+## 📂 Data Science Projects   
 
----
+### Supply Chain Disruption Prediction 
 
-## 📂 Data Science Projects  
+* Designed and deployed a scalable data ingestion pipeline that extracted and transformed real-world and synthetic data from MongoDB Atlas, covering weather anomalies, shipping routes, and geopolitical conflicts.
+  
+* Currently preparing on Training disruption-prediction models (Logistic Regression / Random Forest / XGBoost), selecting the best by validation accuracy, and deploying it via a real-time web app (FastAPI / Flask) that will return a disruption risk score from user shipment inputs.
 
-🔹 **Supply Chain Disruption Prediction**  
-Built an end-to-end data pipeline integrating weather, logistics, and geopolitical datasets.  
-Performed data cleaning, feature engineering, and predictive modeling using Logistic Regression, Random Forest, and XGBoost to estimate disruption risk.
+### Security Log Anomaly Detection  
 
-🔹 **Security Log Anomaly Detection**  
-Processed 140K+ raw network logs and engineered features to detect suspicious activity.  
-Developed an Isolation Forest model to generate anomaly scores and prioritize high-risk events.
+* Built a data pipeline to preprocess **140K+ UNSW-NB15** network logs and simulate near real-time scoring for suspicious activity detection.
+  
+* Deployed an **Isolation Forest** predictive model with **82% test accuracy**, generating anomaly scores to prioritize high-risk events related to fraud detection.
 
-🔹 **Banking Transaction Analytics**  
-Designed scalable data preprocessing workflows for large financial datasets.  
-Conducted statistical analysis and built KPI dashboards to uncover customer behavior patterns and support decision-making.
+### VQA System for Healthcare
 
-🔹 **Healthcare Visual Question Answering (VQA)**  
-Worked on multimodal datasets combining structured and unstructured data.  
-Applied data preprocessing, feature extraction, and model evaluation across multiple data modalities.
+* Conducted a **comparative analysis of multi-modal models** (ResNet/Swin + LSTM/BERT) for **Visual Question Answering** using NLP techniques on a custom dataset of brain and breast medical images, evaluating performance across diverse question categories.
+  
+* Trained and compared encoder pairs using PyTorch, PySpark, Tensorflow to evaluate performance across multiple medical question types (e.g., tumor location, presence, type, and scan region), achieving highest test accuracy of 89.54% with Swin+BERT.
 
----
+
 
 ## 💼 Experience  
 
@@ -69,17 +61,15 @@ Applied data preprocessing, feature extraction, and model evaluation across mult
 • Automated data workflows and reduced manual processes through web-based solutions.  
 • Improved data accuracy and reporting efficiency.
 
----
 
-## 🎯 What I Bring  
+## 🚀 Core Skills  
 
-✔ Strong hands-on experience with messy, real-world data  
-✔ Ability to turn raw data into business insights  
-✔ End-to-end data science workflow experience  
-✔ Strong statistical and analytical thinking  
-✔ Passion for continuous learning and experimentation  
+**Programming:** Python, SQL  
+**Data Analysis:** Exploratory Data Analysis (EDA), Statistics, Feature Engineering  
+**Machine Learning:** Predictive Modeling, Classification, Anomaly Detection, Model Evaluation  
+**Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+**Databases:** SQL Server, MongoDB Atlas, Azure Data Studio  
 
----
 
 ## 📫 Connect with Me  
 
