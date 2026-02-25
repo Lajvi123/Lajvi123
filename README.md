@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Lajvi123/Lajvi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I'm Lajvi Bhavsar  
+## 👋 Hi, I'm Lajvi 
 
 🎓 Master's student in Computer Science at Rice University (GPA: 3.8)  
 📍 Houston, TX  
@@ -30,12 +30,10 @@ My work focuses on statistical analysis, predictive modeling, and building scala
 ## 🚀 Core Skills  
 
 **Programming:** Python, SQL  
-**Data Analysis:** Exploratory Data Analysis (EDA), Statistical Testing, Feature Engineering  
+**Data Analysis:** Exploratory Data Analysis (EDA), Statistics, Feature Engineering  
 **Machine Learning:** Predictive Modeling, Classification, Anomaly Detection, Model Evaluation  
 **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
-**Data Engineering:** ETL Pipelines, Data Cleaning, Data Wrangling  
-**Tools & Technologies:** Pandas, NumPy, Scikit-learn, Excel, Jupyter  
-**Databases:** SQL Server, MongoDB  
+**Databases:** SQL Server, MongoDB Atlas, Azure Data Studio  
 
 ---
 
