@@ -40,7 +40,8 @@ Check out my main projects in the repositories below.
 ## 📫 Connect with Me  
 
 💼 [LinkedIn](https://www.linkedin.com/in/lajvi-bhavsar/)  
-🌐 [Portfolio](https://lsbhavsar3344.wixsite.com/lajvi-bhavsar) \\
+🌐 [Portfolio](https://lsbhavsar3344.wixsite.com/lajvi-bhavsar) 
+
 Email: lb71@rice.edu  
 
 > "Data is the foundation; the story you tell with it is the architecture"
