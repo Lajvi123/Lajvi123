@@ -29,14 +29,6 @@ I spend most of my time working in Python and SQL. Right now, I am looking for a
 
 Check out my main projects in the repositories below.
 
-## 🚀 Core Skills  
-
-**Programming:** Python, SQL  
-**Data Analysis:** Exploratory Data Analysis (EDA), Statistics, Feature Engineering  
-**Machine Learning:** Predictive Modeling, Classification, Anomaly Detection, Model Evaluation  
-**Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
-**Databases:** SQL Server, MongoDB Atlas, Azure Data Studio  
-
 ## 📫 Connect with Me  
 
 💼 [LinkedIn](https://www.linkedin.com/in/lajvi-bhavsar/)  
