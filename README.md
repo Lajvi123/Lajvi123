@@ -37,8 +37,3 @@ Check out my main projects in the repositories below.
 Email: lb71@rice.edu  
 
 > "Data is the foundation; the story you tell with it is the architecture"
-
-### 📊 GitHub Activity
-
-![Lajvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lajvi123&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lajvi123&layout=compact&theme=radical)
