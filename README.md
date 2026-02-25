@@ -76,3 +76,5 @@ My work focuses on statistical analysis, predictive modeling, and building scala
 💼 LinkedIn: [Add your link]  
 🌐 Portfolio: [Add your link]  
 📧 Email: lb71@rice.edu  
+
+> "Data is the new oil, but Machine Learning is the refinery."
