@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 📍 Houston, TX  
 📊 Aspiring Data Scientist | Data Analyst  
 
-I am passionate about transforming messy, real-world data into meaningful insights that drive business and operational decisions. I enjoy working with raw and unstructured datasets—cleaning, preprocessing, and engineering features to build reliable analytical and predictive models.
+I’m the kind of person who actually enjoys the "messy" part of data. I like taking thousands of raw, unorganized records and figuring out how to clean them up so they actually tell a story. To me, the most interesting part of Data Science isn’t just the final model—it’s the work that goes into making the data reliable enough to trust.
 
-My work focuses on statistical analysis, predictive modeling, and building scalable data pipelines using Python and SQL.  I am currently seeking entry-level Data Scientist and Data Analyst roles where I can apply my skills to deliver measurable impact.
+I spend most of my time working in Python and SQL. Right now, I am looking for a full-time Data Scientist or Data Analyst role where I can help solve real-world problems with data
 
 
 
@@ -43,7 +43,7 @@ My work focuses on statistical analysis, predictive modeling, and building scala
 
 ### VQA System for Healthcare
 
-* Conducted a **comparative analysis of multi-modal models** (ResNet/Swin + LSTM/BERT) for **Visual Question Answering** using NLP techniques on a custom dataset of brain and breast medical images, evaluating performance across diverse question categories.
+* Compared different model pairs (like ResNet and BERT) to see which one could best answer questions about medical scans. Ended up hitting 89.5% accuracy.
   
 * Trained and compared encoder pairs using PyTorch, PySpark, Tensorflow to evaluate performance across multiple medical question types (e.g., tumor location, presence, type, and scan region), achieving highest test accuracy of 89.54% with Swin+BERT.
 
